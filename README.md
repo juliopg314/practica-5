@@ -22,11 +22,6 @@ Este programa funciona como un sistema de procesamiento por lotes que recibe dat
 - **Argumentos de Main:** Manejo de `String[] args`.
 - **Git & GitHub:** Control de versiones.
 
-## Evidencias
-![Ejecución con 10 argumentos y lectura de archivos](ruta_de_tu_captura.png)
-
-*(La imagen debe mostrar la "ENTRADA RECIBIDA", el mensaje de "Archivos creados" y el "RESULTADO FINAL" con 11 usuarios)*
-
 ## Instrucciones de ejecución
 **Importante:** Este programa requiere recibir argumentos al momento de ejecutarse.
 
